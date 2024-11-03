@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heshenz
+- 👋 Hi, I’m Heshen Zhao
 - 👀 I’m interested in games, music and math
 - 🌱 I’m currently learning to become a proficient developer and programmer in c++ and python.
 - 💞️ I’m looking to collaborate on projects related to my interests such as game engines or DAW programs or mathematical models.
